@@ -1,0 +1,3 @@
+select image in line 9
+
+only problem left is to size up the square created by the script to get the chin and hairs to make it easier to recognize
